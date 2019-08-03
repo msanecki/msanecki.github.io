@@ -1,1 +1,4 @@
+This is a Brave Rewards publisher verification file.
 
+Domain: msanecki.github.io
+Token: 9cf8e2eb3de428a2de6581e58a4a7cdb18add9aaeb82c417651edb7f29493690
